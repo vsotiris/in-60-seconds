@@ -1,5 +1,3 @@
-# Let's Get Started
-
 
 ---?image=assets/img/presenter.jpg
 
