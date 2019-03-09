@@ -4,7 +4,7 @@
 
 ### Sample Customer Valuation Model
 
-![](assets/img/presenter.jpg)
+---?image=assets/img/presenter.jpg
 
 
 ---
