@@ -25,7 +25,7 @@
 @snapend
 
 @snap[span-100]
-@size[1.5em]
+@size[1em]
 @ul[](false)
    + Age
    + Monthly Income
