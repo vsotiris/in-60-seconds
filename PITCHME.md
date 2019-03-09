@@ -2,9 +2,9 @@
 
 ---
 
-## Add Some Slide Candies
+## Sample Customer Valuation Model
 
-![](assets/img/presentation.png)
+![](assets/img/customer_valuation.jpg)
 
 ---
 @title[Customize Slide Layout]
