@@ -19,14 +19,17 @@
 @snap[west span-55]
 @ul[](false)
 - Data taken from Kaggle Competition: Give Me Some Credit
-- 150K Customers, 6.6% seriously delinquent, 
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- 150K Customers, 6.6% seriously delinquent 
+- Dataset contains performance and explanatory variables
 @ulend
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@ul[](false)
+- Develop model to predict serious delinquency
+- Score new customers
+- Use this score as part of valuation methodology
+@ulend
 @snapend
 
 
