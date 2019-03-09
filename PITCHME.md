@@ -6,6 +6,8 @@
 
 ![](assets/img/customer_valuation1.jpg)
 
+---?image=assets/img/presenter.jpg
+
 ---
 @title[Customize Slide Layout]
 
