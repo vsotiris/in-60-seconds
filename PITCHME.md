@@ -4,7 +4,9 @@
 
 ### Sample Customer Valuation Model
 
----?image=assets/img/presenter.jpg
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
 
 
 ---
