@@ -1,9 +1,10 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Customer Valudation Model
+## Now It's Your Turn
+
 @snapend
 
 @snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+[Click here to see code @fa[external-link]](https://github.com/vsotiris/KaggleWork/blob/master/GBM_shapley.ipynb)
 @snapend
