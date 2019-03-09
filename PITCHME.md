@@ -17,10 +17,12 @@
 @snapend
 
 @snap[west span-55]
-- You will be amazed
-- What you can achieve
+@ul[](false)
+- Data taken from Kaggle Competition: Give Me Some Credit
+- 150K Customers, 6.6% seriously delinquent, 
 - *With a little imagination...*
 - And **GitPitch Markdown**
+@ulend
 @snapend
 
 @snap[east span-45]
