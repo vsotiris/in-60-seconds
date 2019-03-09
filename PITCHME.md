@@ -31,7 +31,7 @@
 #### Predict @color[Red](**Delinquency**) on Small Loans
 @snapend
 
-@snap[east span-45]
+@snap[west span-45]
 @ul[](false)
 - Develop model to predict serious delinquency
 - Score new customers
