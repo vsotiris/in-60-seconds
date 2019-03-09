@@ -21,7 +21,7 @@
 - Data taken from Kaggle Competition: Give Me Some Credit
 - 150K Customers, 6.6% seriously delinquent 
 - Dataset contains performance and explanatory variables
-   + @size[10](Age)
+   + @size[4](Age)
    + Monthly Income
    + Revolving Utilization
    + Number of Dependents
