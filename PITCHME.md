@@ -1,4 +1,4 @@
----?image=assets/img/customer_valuation1.jpg
+---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
 ## Customer Valuation Model
@@ -13,7 +13,7 @@
 ---?color=#E58537
 @title[Add A Little Imagination]
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### Predict @color[Red](**Delinquency**) on Small Loans...
 @snapend
 
 @snap[west span-55]
