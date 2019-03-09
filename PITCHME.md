@@ -1,7 +1,7 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-# Customer Valudation Model
+### Customer Valudation Model
 @snapend
 
 @snap[south span-100 text-06]
