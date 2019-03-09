@@ -9,21 +9,18 @@
 [Click here to see code @fa[external-link]](https://github.com/vsotiris/KaggleWork/blob/master/GBM_shapley.ipynb)
 @snapend
 
-
 ---
-'?color=#E58537
+
 @title[Add A Little Imagination]
 @snap[north-west]
-#### Predict @color[Red](**Delinquency**) on Small Loans...
+#### Predict @color[Red](**Delinquency**) on Small Loans
 @snapend
 
 @snap[west span-55]
-@ul[spaced text-white]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
-@ulend
 @snapend
 
 @snap[east span-45]
