@@ -16,7 +16,7 @@
 #### Predict @color[Red](**Delinquency**) on Small Loans
 @snapend
 
-@snap[west span-55]
+@snap[west span-100]
 @ul[](false)
 - Data taken from Kaggle Competition: Give Me Some Credit
 - 150K Customers, 6.6% seriously delinquent 
