@@ -1,4 +1,4 @@
----?image=assets/img/presenter.jpg
+---?image=assets/img/customer_valuation1.jpg
 
 @snap[north span-100 headline]
 ## Customer Valuation Model
