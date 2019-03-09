@@ -2,7 +2,7 @@
 
 ---
 
-## Sample Customer Valuation Model
+### Sample Customer Valuation Model
 
 ![](assets/img/customer_valuation.jpg)
 
