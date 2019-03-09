@@ -39,7 +39,7 @@
 
 ---?image=assets/img/customer_valuation.jpg
 
-@snap[north span-100 headline]
+@snap[north span-80 headline]
 ## Now It's Your Turn
 @snapend
 
