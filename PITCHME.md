@@ -25,9 +25,8 @@
 @snapend
 
 @snap[span-100]
-@size[1em]
 @ul[](false)
-   + Age
+   + @size[1em](Age)
    + Monthly Income
    + Revolving Utilization
    + Number of Dependents
