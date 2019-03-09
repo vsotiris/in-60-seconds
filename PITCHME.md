@@ -11,7 +11,7 @@
 
 ---
 
-@title[Add A Little Imagination]
+@title[Introduction 1]
 @snap[north-west]
 #### Predict @color[Red](**Delinquency**) on Small Loans
 @snapend
@@ -22,6 +22,13 @@
 - 150K Customers, 6.6% seriously delinquent 
 - Dataset contains performance and explanatory variables
 @ulend
+@snapend
+
+---
+
+@title[Introduction 2]
+@snap[north-west]
+#### Predict @color[Red](**Delinquency**) on Small Loans
 @snapend
 
 @snap[east span-45]
