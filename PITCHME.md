@@ -4,9 +4,8 @@
 
 ### Sample Customer Valuation Model
 
-![](assets/img/customer_valuation1.jpg)
+![](assets/img/presenter.jpg)
 
----?image=assets/img/presenter.jpg
 
 ---
 @title[Customize Slide Layout]
