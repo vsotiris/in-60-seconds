@@ -10,7 +10,8 @@
 @snapend
 
 
-'---?color=#E58537
+---
+'?color=#E58537
 @title[Add A Little Imagination]
 @snap[north-west]
 #### Predict @color[Red](**Delinquency**) on Small Loans...
